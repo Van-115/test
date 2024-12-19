@@ -1,0 +1,26 @@
+2024-12-18 15:15:16.855 [info] 
+
+
+
+
+2024-12-18 15:15:16.923 [info] Extension host agent started.
+2024-12-18 15:15:17.085 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2024-12-18 15:15:17.158 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2024-12-18 15:15:17.224 [info] [127.0.0.1][409bf028][ManagementConnection] New connection established.
+2024-12-18 15:15:17.453 [info] [127.0.0.1][9d67432c][ExtensionHostConnection] New connection established.
+2024-12-18 15:15:17.674 [info] [127.0.0.1][9d67432c][ExtensionHostConnection] <149> Launched Extension Host Process.
+2024-12-18 17:11:35.247 [info] [127.0.0.1][409bf028][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-12-18 17:11:36.173 [info] [127.0.0.1][409bf028][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-12-18 17:11:36.177 [info] [127.0.0.1][409bf028][ManagementConnection] The client has reconnected.
+2024-12-18 17:11:52.298 [info] [127.0.0.1][9d67432c][ExtensionHostConnection] The client has reconnected.
+2024-12-18 17:11:52.334 [info] [127.0.0.1][9d67432c][ExtensionHostConnection] The client has reconnected.
+2024-12-18 17:56:33.375 [info] [127.0.0.1][409bf028][ManagementConnection] The client has reconnected.
+2024-12-18 17:56:33.451 [info] [127.0.0.1][9d67432c][ExtensionHostConnection] The client has reconnected.
+2024-12-19 01:17:34.518 [info] [127.0.0.1][409bf028][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-12-19 01:17:36.486 [warning] No ptyHost heartbeat after 6 seconds
+2024-12-19 01:17:50.510 [info] [127.0.0.1][409bf028][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-12-19 01:17:50.805 [info] [127.0.0.1][9d67432c][ExtensionHostConnection] The client has reconnected.
+2024-12-19 01:17:50.899 [info] [127.0.0.1][409bf028][ManagementConnection] The client has reconnected.
+2024-12-19 01:18:17.305 [info] [127.0.0.1][9d67432c][ExtensionHostConnection] The client has reconnected.
+2024-12-19 01:22:01.346 [info] [127.0.0.1][409bf028][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-19 01:22:02.086 [info] [127.0.0.1][9d67432c][ExtensionHostConnection] <149> Extension Host Process exited with code: 0, signal: null.
